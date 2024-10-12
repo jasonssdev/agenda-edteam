@@ -1,4 +1,5 @@
 from connection import *
+#new comment
 
 def register(name, last_name, business_name, phone, email, address):
     try:
